@@ -1,0 +1,3 @@
+echo ".env" 
+".vscode/" 
+"*.log" 
