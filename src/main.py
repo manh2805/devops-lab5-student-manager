@@ -24,6 +24,10 @@ def main():
 
     print(f"\nTotal: {len(students)} students")
 
+    # Tìm kiếm sinh viên
+    print("\n--- Tìm kiếm ---")
+    search_student(students, "Van")
+
 
 def search_student(students: list, keyword: str) -> list:
     """Tìm kiếm sinh viên theo tên hoặc mã.
