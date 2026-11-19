@@ -1,3 +1,3 @@
-"# Student Manager" 
-"" 
-"?ng d?ng qu?n ly sinh vi�n - DevOps Lab 5" 
+# Student Manager
+
+Ứng dụng quản lý sinh viên — DevOps Lab 5
